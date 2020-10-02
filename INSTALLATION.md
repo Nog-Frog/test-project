@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "התקנה"
-permalink: /installation/
+permalink: /install/
 ---
 
 כאן יש הוראות התקנה.
