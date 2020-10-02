@@ -3,7 +3,10 @@
 
 @import "{{ site.theme }}";
 
-html {
-    color: pink;
+#rtl {
     text-align: right;
+}
+
+#ltr {
+    text-align: left;
 }
